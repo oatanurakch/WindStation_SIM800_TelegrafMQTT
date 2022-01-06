@@ -44,7 +44,7 @@ const char gprsUser[] = "true";
 const char gprsPass[] = "true";
 
 // MQTT details
-const char* broker = "electsut.ddns.net";
+const char* broker = "broker";
 const char* topicOut = "windstation01/Node1Sub";
 const char* topicIn = "windstation01/Node1Pub";
 
